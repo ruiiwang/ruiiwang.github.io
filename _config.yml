@@ -21,7 +21,7 @@ repository               : "ruiiwang/ruiiwang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "wangrui.png"
   name             : "Rui Wang"
   pronouns         : # example: "she/her"  
   bio              : "Bachelor of Engineering, Tsinghua University"
