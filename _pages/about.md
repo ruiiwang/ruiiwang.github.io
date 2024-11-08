@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I have graduated from IIIS(Yao Class), Tsinghua University and got my B.Eng degree in June, 2023. My major is computer science and technology, and my research interest includes machine learning, natural language processing, computational biology and artificial intelligence.
+I have graduated from [IIIS](https://iiis.tsinghua.edu.cn/)(Yao Class), Tsinghua University and got my B.Eng degree in June, 2023. My major is computer science and technology, and my research interest includes machine learning, natural language processing, computational biology and artificial intelligence. I'm now working at [Entertech](https://www.entertech.cn/) in Hangzhou, focusing on the application of large language models.
 
 You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf).<br/>
-[Email](mailto:wangrui6240@outlook.com) / [Github](https://github.com/ruiiwang) <!-- / [Wechat](../images/wechat.jpg) -->
-
+Contact me: [Email](mailto:wangrui6240@outlook.com) / [Github](https://github.com/ruiiwang) <!-- / [Wechat](../images/wechat.jpg) -->
 
 Work & Intern Experiences
 ------
-1. Enter Technology Co., Ltd, Algorithm Engineer, Hangzhou, Nov 2024 - Present.
+1. Entertech, Algorithm Engineer, Hangzhou, Nov 2024 - Present.
 2. Chang Guang Satellite Technology Co., Ltd, Data Analysis Intern, Changchun, Apr 2024 - Oct 2024.
 3. Silexon AI Technology Co., Ltd, Algorithm Development Intern, Beijing, Feb 2022 - Aug 2022.
 
