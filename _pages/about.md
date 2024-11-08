@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Rui Wang's website"
+title: "Rui Wang's Profile"
 author_profile: true
 redirect_from: 
   - /about/
