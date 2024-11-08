@@ -9,8 +9,7 @@ redirect_from:
 
 I have graduated from IIIS(Yao Class), Tsinghua University and got my B.Eng degree in June, 2023. My major is computer science and technology, and my research interest includes machine learning, natural language processing, computational biology and artificial intelligence.
 
-You can find my CV here: [Rui Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
+You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf).<br/>
 [Email](mailto:wangrui6240@outlook.com) / [Github](https://github.com/ruiiwang) <!-- / [Wechat](../images/wechat.jpg) -->
 
 
