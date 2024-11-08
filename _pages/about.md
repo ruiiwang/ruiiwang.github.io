@@ -15,7 +15,7 @@ You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf).<br/>
 
 Work & Intern Experiences
 ------
-1. Entertech, Algorithm Engineer, Hangzhou, Nov 2024 - Present.
+1. Enter Technology Co., Ltd, Algorithm Engineer, Hangzhou, Nov 2024 - Present.
 2. Chang Guang Satellite Technology Co., Ltd, Data Analysis Intern, Changchun, Apr 2024 - Oct 2024.
 3. Silexon AI Technology Co., Ltd, Algorithm Development Intern, Beijing, Feb 2022 - Aug 2022.
 
