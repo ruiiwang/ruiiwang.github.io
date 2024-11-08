@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rui Wang / Personal Homepage"
+title                    : "Rui Wang"
 title_separator          : "-"
 name                     : &name "Rui Wang"
 description              : &description "Bachelor of Engineering, Tsinghua University"
