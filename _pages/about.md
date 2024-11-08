@@ -21,7 +21,7 @@ Work & Intern Experiences
 
 Skills
 ------
-Programming: Python, Matlab, Verilog HDL.
+Programming: Python, Matlab, Verilog HDL.<br/>
 Proficient in Machine learning, Natural language processing, Computational biology.
 
 <!--
