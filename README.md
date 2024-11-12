@@ -4,6 +4,13 @@
 
 Academic Pages is a Github Pages template for academic websites.
 
+# Important
+
+1. Upper lines: _data/navigation.yml
+2. Main page: _pages/about.md
+3. CV page: _pages/cv.md
+4. Left column & Photo: _config.yml
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
